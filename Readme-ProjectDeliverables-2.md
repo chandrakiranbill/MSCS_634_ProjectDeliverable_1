@@ -34,10 +34,10 @@ The following steps were implemented in the notebook:
    - Identified most relevant features based on correlation matrix.
 
 3. **Modeling Techniques Used**:
-   - ✅ Simple Linear Regression (1 feature)
-   - ✅ Multiple Linear Regression (all features)
-   - ✅ Ridge Regression (L2 regularization)
-   - ✅ Lasso Regression (L1 regularization)
+   - Simple Linear Regression (1 feature)
+   - Multiple Linear Regression (all features)
+   - Ridge Regression (L2 regularization)
+   - Lasso Regression (L1 regularization)
 
 4. **Cross-Validation**:
    - 5-Fold Cross Validation was used to ensure generalization.
@@ -46,7 +46,7 @@ The following steps were implemented in the notebook:
 
 ---
 
-## ✅ Evaluation Summary
+##  Evaluation Summary
 
 | Model                   | MAE     | RMSE    | R²     | Notes                                   |
 |------------------------|---------|---------|--------|-----------------------------------------|
