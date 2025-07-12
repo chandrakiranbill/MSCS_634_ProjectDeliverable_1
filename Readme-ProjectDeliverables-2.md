@@ -1,5 +1,5 @@
 
-# MSCS_634_ProjectDeliverable_2
+# MSCS_634_ProjectDeliverable_2 - Regression Modeling and Performance Evaluation
 
 👨‍💻 **Student Name**: Chandra Kiran Billingi  
 📚 **Course**: MSCS 634 - Advanced Big Data and Data Mining  
